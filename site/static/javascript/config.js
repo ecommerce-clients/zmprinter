@@ -1,0 +1,1 @@
+var SubDomain = 'zmprinter'; var SiteID = '229726C5-8427-43C3-A142-E15047BB41AB'; var host = 'https://api.eraconnect.net';
